@@ -1,0 +1,21 @@
+# Node modules and package-related files
+node_modules
+package.json
+package-lock.json
+
+# Configuration files for PostCSS and other tools
+postcss.config.js
+vite.config.ts
+
+# ESLint and Prettier configuration files
+.prettierrc
+.eslintrc.cjs
+
+# TypeScript configurations
+tsconfig.json
+tsconfig.node.json
+
+# Distribution folder and documentation files
+dist
+*.md
+**/*.html
